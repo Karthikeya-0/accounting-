@@ -121,7 +121,7 @@ accounting-
 ## 📊 Excel Column Format
 DATE | CUSTOMER | ITEM | COUNT | QUANTITY | RATE | ADVANCE | PHONE | LOCATION | PAYMENT
 
-🎓 Academic Use
+##🎓 Academic Use
 
 Perfect for:
 
@@ -133,7 +133,7 @@ Offline Business Automation
 
 Database Application Design
 
-👨‍💻 Author
+##👨‍💻 Author
 
 KARTHIKEYA UNDAVALLI
 🎓 Computer Science Engineer
